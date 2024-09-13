@@ -68,12 +68,12 @@ const HomeScreen = () => {
           />
           <FeaturedRow
             id="1234"
-            title="Featured"
+            title="Tasty Discounts"
             description="Paid placements form our partners"
           />
           <FeaturedRow
             id="12345"
-            title="Featured"
+            title="Offers Near You!"
             description="Paid placements form our partners"
           />
         </ScrollView>
